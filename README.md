@@ -1,7 +1,7 @@
 # Note Taker
 
 # Description
-  This week's project is to use Express.js to create a note-taking application. We received a starter code, which had all the code for the front end created. The only thing I focused on for this challenge was to build the back end to connect the server and client together. This applicatioon allows a user to create and save notes to help them keep track of the tasks they need to complete. 
+  This week's project is to use Express.js to create a note-taking application. We received a starter code, which had all the code for the front end created. The only thing I focused on for this challenge was to build the back end to connect the server and client together. This application allows a user to create and save notes to help them keep track of the tasks they need to complete. 
 
 
   Here's the link to my deployed application: https://note-taker-aliya.herokuapp.com/notes
