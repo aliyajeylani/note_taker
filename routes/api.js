@@ -4,8 +4,6 @@ const fs = require('fs');
 const uuid = require('uuid/v1');
 
 
-
-
 // Promise version of fs.readFile
 const readFromFile = util.promisify(fs.readFile);
 
